@@ -2,6 +2,9 @@ header {
   margin: 40px 20px;
   text-align: center;
 }
+body {
+  background: rgba(245, 231, 245, 0.533);
+}
 .App-footer {
   text-align: center;
   margin: 30px 0;
@@ -10,4 +13,7 @@ header {
   max-width: 200px;
   display: block;
   margin: 0 auto;
+}
+a {
+  color: rgba(82, 207, 235, 0.533);
 }
