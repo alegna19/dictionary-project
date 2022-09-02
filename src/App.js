@@ -11,7 +11,7 @@ function App() {
         </header>
         <Dictionary defaultKeyword="sunset" />
         <footer className="App-footer">
-          <small>code by SheCodes</small>
+          <small>code by Angela</small>
         </footer>
       </div>
     </div>
