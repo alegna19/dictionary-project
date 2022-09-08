@@ -5,6 +5,11 @@ header {
 body {
   background: rgba(245, 231, 245, 0.533);
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-footer {
   text-align: center;
   margin: 30px 0;
